@@ -1,0 +1,257 @@
+/* Un ID se llama cen css con un # y una clase se llama con un . */
+body {
+	font-family: arial,sans-serif;
+	margin: 0;
+}
+
+header {
+	background: white;
+	height: 50px;
+	width: 100%;
+}
+
+footer {
+	background-color: #777;
+	bottom: 0;
+	font-size: 10pt;
+	height: 35px;
+	position: fixed;
+	width: 100%;
+}
+
+input {
+	height: 23px;
+	margin: 0 auto;
+	margin: 9px 0;
+	width: 100%;
+}
+button {
+	padding: 8px;
+	height: 29px;
+	background-color: #f5f5f5;
+	border: 1px solid rgba(0,0,0,0.1);
+	border-radius: 2px;
+	color: #444;
+	font-size: 11px;
+	font-weight: bold;
+	margin: 11px 8px;
+}
+
+#buttons {
+	margin: auto;
+	width: 289px;
+}
+
+#logo {
+	height: 100%;
+	margin: auto;
+	padding-top: 145px;
+	width: 585px;
+}
+
+#image {
+	background-image: url("../img/logo.png");
+	background-size: 269px 95px;
+	height: 95px;
+	margin: auto;
+	position: relative;
+	width: 269px;
+}
+
+#image p {
+	bottom: 6px;
+	color: #777;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 0;
+	position: absolute;
+	right: -2px;
+}
+
+#texto {
+	margin-top: 40px;
+	text-align: center;
+}
+
+#fbar {
+	background: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	line-height: 40px;
+	min-width: 980px;
+}
+
+#fsr {
+	float: right;
+	margin-right: 30px;
+	white-space: nowrap;
+}
+
+#fsl {
+	margin-left: 30px;
+	white-space: nowrap;
+}
+
+#profile {
+	position: relative;
+	height: 30px;
+	width: 100%;
+	background: white;
+	display: inline-block;
+	line-height: 30px;
+}
+
+#plus {
+	float: right;
+	margin-right: 13px;
+}
+
+#login {
+	float: right;;
+	padding-right: 35px;
+	margin-top: 3px;
+}
+
+#photo {
+	background-image: url("../img/photo.jpg");
+	background-size: 32px 32px;
+	border-radius: 50%;
+	display: block;
+	margin: -4px;
+	height: 32px;
+	width: 32px;
+	float: right;
+	white-space: nowrap;
+}
+
+.first-button {
+	margin-right: 5px;
+}
+
+._dqc {
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+}
+
+.fbar {
+	font-size: small;
+	margin-left: -27px;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+.profile_1 {
+	left: 0;
+	right: 0;
+	top: 10px;
+}
+
+.profile_2 {
+	font-size: 18px;
+	width: 100%;
+}
+
+a._Pri {
+	color: #666;
+	font-size: 15.1299991607666px;
+	margin: 2px 10px 0;
+	padding-left: 27px;
+	text-decoration: none;
+	display: inline-block;
+}
+		
+		a:hover {
+			text-decoration: underline;
+}
+
+a._Ter {
+	color: #666;
+	font-size: 15.1299991607666px;
+	margin: 2px 10px 0;
+	padding-left: 17px;
+	text-decoration: none;
+}
+
+		a:hover {
+			text-decoration: underline;
+	}
+
+a._Conf {
+	color: #666;
+	font-size: 15.1299991607666px;
+	margin: 2px 10px 0;
+	padding-left: 17px;
+	text-decoration: none;
+}
+
+		a:hover {
+			text-decoration: underline;
+	}
+
+a._Pub {
+	color: #666;
+	font-size: 15.1299991607666px;
+	margin: 2px 10px 0;
+	padding-left: 20px;
+	text-decoration: none;
+}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+a._Neg {
+	color: #666;
+	font-size: 15.1299991607666px;
+	margin: 2px 10px 0;
+	padding-left: 17px;
+	text-decoration: none;
+}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+a._Ace {
+	color: #666;
+	font-size: 15.1299991607666px;
+	margin: 2px 10px 0;
+	padding-left: 17px;
+	text-decoration: none;
+}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+a._signomas {
+	color: #404040;
+	font-size: 13px;
+	margin: 2px 5px 0;
+	text-decoration: none;
+}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+a._correo {
+	color: #404040;
+	font-size: 13px;
+	margin: 2px 5px 0;
+	text-decoration: none;
+}
+	a:hover {
+		text-decoration: underline;
+	}
+
+a._simg {
+	color: #404040;
+	font-size: 13px;
+	margin: 2px 5px 0;
+	text-decoration: none;
+}
+	a:hover {
+		text-decoration: underline;
+	}
